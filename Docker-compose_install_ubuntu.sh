@@ -1,7 +1,7 @@
 #!/bin/bash
 
-  # Author----Kazeem
-  #Date-------Nov-02-2022
+  # Author----Donah
+  #Date-------Jan-17-2023
   #Description---Script that will install Docker-compose on Ubuntu
 
  sudo apt-get update -y
